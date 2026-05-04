@@ -80,5 +80,5 @@ curl -i http://localhost:3000/threadpool-limit
 
 ### Скріншот успішного проходження тестів (4/4):
 
-![Completed Results](completed.png)
+![completed.png](competed.png)
 
